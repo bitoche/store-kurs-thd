@@ -51,6 +51,7 @@
 <a href="revaluation_act">Акты переоценки</a><br><br>
 <a href="stock">Склады</a><br><br>
 <a href="store">Магазины</a><br><br>
+<a href="sql-query">SQL-Запросы</a>
 </body>
 
 </html>
